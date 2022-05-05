@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jemimah-stallyg
 - 👀 I’m interested in web developing
 - 🌱 I’m currently working in iinterchange
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
